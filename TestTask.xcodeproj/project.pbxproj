@@ -278,10 +278,7 @@
 				2479BC102AADBC3E00EA0CB9 /* Utility */,
 				2479BC0A2AADB42000EA0CB9 /* Extension */,
 				2463DCEB2AAC64A300F5B307 /* BaseClass */,
-				2479BC1B2AADDED900EA0CB9 /* PostManager */,
-				2479BC0D2AADBBE700EA0CB9 /* PostView */,
-				2463DCF02AACA23F00F5B307 /* CommentView */,
-				2479BC182AADC41600EA0CB9 /* FavouriteView */,
+				24B453122ABEBCE900D2C16F /* Modules */,
 				24964AD82AAB098C0076D121 /* Info.plist */,
 				240A93BF2AADAA90001A1263 /* GoogleService-Info.plist */,
 				2479BC132AADBCAE00EA0CB9 /* Resources */,
@@ -325,6 +322,17 @@
 				24964B062AAB35370076D121 /* PostRepository.swift */,
 			);
 			path = Repository;
+			sourceTree = "<group>";
+		};
+		24B453122ABEBCE900D2C16F /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				2479BC1B2AADDED900EA0CB9 /* PostManager */,
+				2479BC0D2AADBBE700EA0CB9 /* PostView */,
+				2463DCF02AACA23F00F5B307 /* CommentView */,
+				2479BC182AADC41600EA0CB9 /* FavouriteView */,
+			);
+			path = Modules;
 			sourceTree = "<group>";
 		};
 		3FE69750882B81FFEC205B7E /* Pods */ = {
